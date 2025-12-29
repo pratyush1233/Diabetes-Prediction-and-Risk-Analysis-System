@@ -1,0 +1,50 @@
+Disease,Eat,Avoid,Calories,Protein_g,Carbs_g,Fats_g
+Diabetes Type 2,"Oats, Barley, Lentils, Leafy Greens, Nuts, Greek Yogurt, Broccoli, Quinoa, Chia Seeds, Berries","White Bread, Soda, Pastries, Fried Foods, Processed Meats",1800,110,180,60
+Hypertension,"Bananas, Spinach, Sweet Potatoes, Avocados, Beets, Oats, Skim Milk, White Beans, Salmon, Dark Chocolate","Salted Snacks, Pickles, Canned Soups, Processed Meats, Fast Food",2000,100,220,65
+Kidney Disease,"Cauliflower, Blueberries, Sea Bass, Garlic, Cabbage, Bell Peppers, Apples, Olive Oil, Pineapple, White Rice","Bananas, Oranges, Dairy, Whole Grains, Avocados",1900,70,240,50
+Celiac Disease,"Quinoa, Brown Rice, Corn, Sweet Potatoes, Eggs, Chicken, Yogurt, Lentils, Carrots, Apples","Wheat, Barley, Rye, Malt, Pasta",2100,120,230,70
+PCOS,"Leafy Greens, Berries, Almonds, Eggs, Avocados, Whole Grains, Tomatoes, Chicken Breast, Greek Yogurt, Walnuts","Sugary Foods, White Bread, Pasta, Fried Food, Red Meat",2000,130,180,60
+Obesity,"Leafy Greens, Lean Meat, Berries, Whole Grains, Eggs, Greek Yogurt, Avocados, Apples, Broccoli, Sweet Potatoes","Sugary Drinks, Fast Food, Candy, Refined Grains, Soda",1600,120,150,50
+Anemia,"Spinach, Red Meat, Lentils, Tofu, Fortified Cereals, Pumpkin Seeds, Eggs, Quinoa, Broccoli, Dark Chocolate","Tea, Coffee, Dairy, Calcium-rich foods with iron, Bran",2200,100,250,60
+Heart Disease,"Salmon, Oats, Berries, Nuts, Leafy Greens, Olive Oil, Avocados, Whole Grains, Beans, Tofu","Trans Fats, Processed Meats, Fried Foods, Excess Salt, Sugary Snacks",2000,100,200,60
+Asthma,"Apples, Bananas, Spinach, Carrots, Tomatoes, Salmon, Flaxseeds, Broccoli, Avocados, Whole Grains","Sulfites, Processed Foods, Artificial Additives, Fried Food, Alcohol",2100,90,240,65
+GERD,"Oatmeal, Ginger, Bananas, Melons, Green Veggies, Brown Rice, Egg Whites, Turkey, Cucumber, Herbal Tea","Caffeine, Citrus, Chocolate, Spicy Foods, Fried Foods",2000,100,230,55
+Fit,"Leafy Greens, Eggs, Chicken, Brown Rice, Sweet Potatoes, Broccoli, Berries, Almonds, Yogurt, Avocados","Sugary Snacks, Processed Meats, Alcohol, Fried Foods, Excess Salt",2200,120,240,70
+Migraine,"Brown Rice, Spinach, Cucumber, Ginger, Salmon, Sweet Potato, Quinoa, Leafy Greens, Watermelon, Oats","Aged Cheese, Chocolate, Caffeine, Alcohol, Processed Meats",2000,100,230,60
+Liver Disease,"Oatmeal, Garlic, Green Tea, Leafy Greens, Broccoli, Tofu, Apples, Avocados, Walnuts, Turmeric","Alcohol, Fried Foods, Sugar, Salt, Red Meat",1900,90,200,55
+Depression,"Fatty Fish, Nuts, Whole Grains, Leafy Greens, Avocados, Bananas, Eggs, Dark Chocolate, Yogurt, Berries","Alcohol, Sugary Snacks, Caffeine, Trans Fats, Refined Carbs",2100,100,250,70
+Glaucoma,"Kale, Spinach, Carrots, Oranges, Peaches, Broccoli, Berries, Eggs, Salmon, Almonds","Caffeine, High-sugar foods, Trans Fats, Fried Foods, Alcohol",2000,95,220,65
+Parkinson's Disease,"Berries, Leafy Greens, Salmon, Walnuts, Whole Grains, Beans, Olive Oil, Avocados, Broccoli, Eggs","High-fat dairy, Sugary Snacks, Processed Meats, Fried Foods, Alcohol",2100,100,240,70
+Arthritis,"Salmon, Broccoli, Green Tea, Garlic, Berries, Spinach, Whole Grains, Beans, Olive Oil, Carrots","Fried Foods, Sugar, Red Meat, Refined Carbs, Alcohol",2000,95,220,65
+Alzheimer's,"Leafy Greens, Berries, Walnuts, Salmon, Olive Oil, Whole Grains, Pumpkin Seeds, Beans, Avocados, Eggs","Trans Fats, High Sugar, Processed Meats, Fried Foods, Alcohol",2100,100,240,70
+COPD,"Eggs, Chicken, Greek Yogurt, Oats, Berries, Leafy Greens, Nuts, Sweet Potatoes, Apples, Fish","Soda, Fried Foods, Processed Meats, Dairy, Caffeine",2200,110,230,75
+Psoriasis,"Salmon, Sardines, Avocados, Broccoli, Carrots, Berries, Leafy Greens, Pumpkin Seeds, Olive Oil, Quinoa","Gluten, Red Meat, Dairy, Processed Foods, Alcohol",2000,100,220,70
+Diabetes Type 1,"Whole Grains, Lentils, Leafy Greens, Chicken Breast, Eggs, Greek Yogurt, Berries, Quinoa, Almonds, Broccoli","Sugary Beverages, Candy, White Bread, Pastries, Fried Food",2000,120,180,60
+Osteoporosis,"Yogurt, Cheese, Salmon, Leafy Greens, Tofu, Fortified Cereals, Almonds, Broccoli, Eggs, Oranges","Caffeine, Alcohol, Salty Foods, Soft Drinks, Red Meat",2100,110,220,65
+Anxiety,"Salmon, Chamomile Tea, Yogurt, Turmeric, Green Tea, Eggs, Pumpkin Seeds, Dark Chocolate, Blueberries, Almonds","Caffeine, Sugar, Alcohol, Fried Food, Artificial Additives",2000,95,220,60
+Stroke,"Leafy Greens, Berries, Salmon, Oats, Olive Oil, Avocados, Almonds, Brown Rice, Beans, Tomatoes","Fried Foods, Trans Fats, Red Meat, Salt, Sugary Snacks",1900,100,210,60
+Epilepsy,"Eggs, Cheese, Meat, Leafy Greens, Nuts, Coconut Oil, Berries, Broccoli, Mushrooms, Avocados","Refined Sugar, Gluten (some cases), Artificial Additives, Alcohol, Caffeine",2000,90,160,90
+Hypothyroidism,"Eggs, Meat, Fish, Leafy Greens, Berries, Brazil Nuts, Dairy, Whole Grains, Legumes, Avocados","Soy, Cruciferous Veggies (raw), Gluten, Sugary Foods, Alcohol",1900,100,200,65
+Hyperthyroidism,"Cruciferous Veggies, Berries, Salmon, Dairy, Whole Grains, Oranges, Broccoli, Avocados, Almonds, Oats","Caffeine, Iodine-rich foods, Processed Snacks, Alcohol, Sugar",2200,95,240,70
+Schizophrenia,"Whole Grains, Fish, Eggs, Leafy Greens, Berries, Beans, Yogurt, Chicken, Pumpkin Seeds, Bananas","Sugar, Caffeine, Fried Foods, Alcohol, Processed Meats",2100,100,230,65
+Gout,"Cherries, Berries, Whole Grains, Leafy Greens, Tofu, Low-fat Dairy, Watermelon, Nuts, Bananas, Avocados","Red Meat, Shellfish, Alcohol, Sugary Drinks, Organ Meats",2000,90,230,60
+Cancer,"Leafy Greens, Broccoli, Berries, Whole Grains, Beans, Fish, Nuts, Tomatoes, Garlic, Carrots","Processed Meats, Alcohol, Fried Foods, Sugar, Refined Carbs",2200,120,240,70
+Peptic Ulcer,"Bananas, Cabbage, Yogurt, Honey, Leafy Greens, Carrots, Oats, Apples, Tofu, Brown Rice","Spicy Food, Caffeine, Alcohol, Citrus, Fried Foods",2000,90,230,60
+IBS,"Oats, Carrots, Zucchini, Bananas, Potatoes, White Rice, Chicken, Eggs, Cucumbers, Strawberries","Dairy, Beans, Cabbage, Artificial Sweeteners, Fried Foods",1900,95,220,60
+Crohn's Disease,"Eggs, White Rice, Bananas, Applesauce, Cooked Carrots, Chicken, Oats, Potatoes, Yogurt, Zucchini","Nuts, Seeds, Popcorn, Raw Veggies, Whole Grains",2100,100,230,65
+Ulcerative Colitis,"White Rice, Cooked Carrots, Bananas, Chicken, Eggs, Applesauce, Squash, Oatmeal, White Bread, Yogurt","Nuts, Seeds, Corn, High-Fiber Foods, Alcohol",2000,100,220,60
+Chronic Fatigue Syndrome,"Berries, Leafy Greens, Fish, Whole Grains, Nuts, Sweet Potatoes, Chicken, Eggs, Yogurt, Avocados","Sugar, Caffeine, Processed Foods, Alcohol, Refined Carbs",2200,110,240,70
+Bradycardia,"Whole Grains, Leafy Greens, Avocados, Bananas, Fish, Oats, Apples, Almonds, Berries, Tomatoes","High Sodium Foods, Caffeine, Alcohol, Trans Fats, Processed Meats",2000,90,230,60
+Tachycardia,"Leafy Greens, Salmon, Avocados, Bananas, Oats, Almonds, Berries, Sweet Potatoes, Yogurt, Whole Grains","Caffeine, Sugar, Processed Foods, Alcohol, Energy Drinks",2000,100,220,60
+Sinusitis,"Pineapple, Ginger, Garlic, Turmeric, Leafy Greens, Berries, Citrus Fruits, Chicken Soup, Carrots, Honey","Dairy, Sugar, Processed Foods, Fried Foods, Alcohol",1900,90,210,60
+Pneumonia,"Chicken Soup, Garlic, Ginger, Yogurt, Oranges, Carrots, Broccoli, Oats, Berries, Green Tea","Cold Drinks, Processed Meats, Fried Foods, Excess Sugar, Caffeine",2100,100,230,65
+Tuberculosis,"Milk, Eggs, Meat, Fish, Whole Grains, Leafy Greens, Citrus Fruits, Legumes, Carrots, Nuts","Alcohol, Excess Fat, Sugary Foods, Fried Foods, Caffeine",2400,120,250,75
+Eczema,"Salmon, Flaxseed, Walnuts, Leafy Greens, Berries, Avocados, Sweet Potatoes, Yogurt, Whole Grains, Apples","Dairy, Eggs (if allergic), Nuts (if allergic), Processed Foods, Sugar",2000,95,220,65
+Gallstones,"Leafy Greens, Whole Grains, Beets, Avocados, Apples, Carrots, Lentils, Berries, Tofu, Yogurt","Fatty Meats, Fried Foods, Full-Fat Dairy, Processed Foods, Sugar",1900,95,210,55
+Hepatitis,"Whole Grains, Leafy Greens, Berries, Carrots, Broccoli, Apples, Beans, Tofu, Chicken, Oats","Alcohol, Fried Foods, Excess Salt, Sugar, Red Meat",2000,100,220,60
+HIV/AIDS,"Lean Meats, Whole Grains, Leafy Greens, Fruits, Nuts, Eggs, Fish, Sweet Potatoes, Yogurt, Beans","Raw Eggs, Raw Meat, Unpasteurized Dairy, Alcohol, Excess Sugar",2400,130,250,70
+Multiple Sclerosis,"Salmon, Leafy Greens, Avocados, Whole Grains, Nuts, Berries, Yogurt, Beans, Sweet Potatoes, Olive Oil","Trans Fats, Sugar, Fried Foods, Processed Meats, Caffeine",2100,100,230,65
+Sickle Cell,"Leafy Greens, Eggs, Chicken, Legumes, Sweet Potatoes, Oranges, Bananas, Brown Rice, Fish, Yogurt","Alcohol, Excess Sugar, Fried Foods, Caffeine, Processed Foods",2300,120,240,70
+Lupus,"Leafy Greens, Fatty Fish, Berries, Whole Grains, Nuts, Avocados, Sweet Potatoes, Yogurt, Beans, Tofu","Alfalfa Sprouts, Garlic (large amounts), Alcohol, Sugar, Fried Foods",2100,100,230,65
+Diverticulitis,"White Rice, Applesauce, Yogurt, Eggs, Cooked Carrots, Potatoes, Bananas, White Bread, Chicken, Broth","Seeds, Nuts, Corn, Whole Grains, Raw Veggies",1900,90,220,60
+Pancreatitis,"Oatmeal, Bananas, Boiled Potatoes, Rice, Apple Sauce, Chicken Breast, Carrots, Zucchini, Broth, Eggs","Fried Foods, Alcohol, Red Meat, Full-Fat Dairy, Butter",1800,90,210,50
